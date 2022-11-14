@@ -1,4 +1,7 @@
 ### Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YuKyeong%20Github!&fontSize=80" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbxxrud&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbxxrud&layout=compact)](https://github.com/dbxxrud/github-readme-stats)
+<div align="center">
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbxxrud&show_icons=true&theme=radical)
