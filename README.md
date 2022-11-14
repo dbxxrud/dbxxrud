@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YuKyeong Github!&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YuKyeongGithub!&fontSize=80" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbxxrud&show_icons=true&theme=radical)
 
