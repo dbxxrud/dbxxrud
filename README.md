@@ -3,5 +3,6 @@
 
 <div align="center">
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbxxrud&show_icons=true&theme=radical)
