@@ -1,6 +1,4 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YuKyeongGithub!&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YuKyeong%20Github!&fontSize=80" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbxxrud&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbxxrud&layout=compact)](https://github.com/dbxxrud/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbxxrud&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbxxrud&layout=compact)](https://github.com/dbxxrud/github-readme-stats)
