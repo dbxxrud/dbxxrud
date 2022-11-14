@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YuKyeong%20Github!&fontSize=80" />
-
 ## Hi there 👋
 - C++
 - Game Dev
